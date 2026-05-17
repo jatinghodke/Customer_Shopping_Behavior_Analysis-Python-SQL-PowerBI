@@ -1,0 +1,4 @@
+Python (Pandas)
+Psycopg2 (PostgreSQL)
+SQLAlchemy
+Power BI
